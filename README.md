@@ -27,7 +27,11 @@ pip install tkintermapview
 ```bash
 pip install pillow
 ```
-
+## Usage
+Use the below command to run the application:
+```bash
+python main.py
+```
 
 ## Images
 ![home](https://github.com/darsini-k22/Weather-wise/assets/75623259/1ce1f582-864e-4a46-8f7d-81e846487361)
