@@ -1,6 +1,6 @@
 # Weather-Wise: Weather application
 
-Weather-Wise is a comprehensive weather application that allows users to check weather conditions in various cities or by selecting coordinates from an interactive map. The app also provides climatic news worldwide, informing users about global weather events.
+Weather-Wise is a comprehensive weather application developed with **Python** and **Tkintertable** library that allows users to check weather conditions in various cities or by selecting coordinates from an interactive map. The app also provides climatic news worldwide, informing users about global weather events.
 
 Using opensource API from [OpenWeather](https://openweather.co.uk/) service provider the weather data are fetched and displayed in the Python application. The climatic news is scrapped from [CNN](https://edition.cnn.com)'s official website to display climatic news.
 
